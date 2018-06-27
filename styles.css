@@ -1,0 +1,40 @@
+/* add your CSS here */
+* {
+      box-sizing: border-box;
+}
+body {
+	padding: 5px;
+}
+h3 {
+	font-weight: bold;
+	font-family: sans-serif;
+	font-size: 30px;
+}
+span {
+	font-weight: bold;
+}
+.card {
+      height: 600px;
+      width: 400px;
+      box-shadow: 5px 0px 5px 0px #949494;
+      border-radius: 4px;
+      border: 1px solid #868686;
+      padding-right: 10px;
+      padding-left: 10px;
+      text-align: center;
+      background-color: #c7ffaf;
+}
+.picture {
+	width: 300px;
+	height: 200px;
+	padding-bottom: 10px;
+	border-radius: 50%;
+}
+.animal {
+	font-size: small;
+    border: 1px solid #868686;
+    box-sizing: border-box;
+    padding-left: 7px;
+    padding-right: 5px;
+    text-align: left;
+}
